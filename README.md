@@ -12,8 +12,8 @@ This is an Arduino-based Oscillscope written in the Atmel Studio 7.0 environment
 
 The performance of this application is not so good as expected, which can only measure the sine wave for 20Hz, that is the sample frequency Fs = 40Hz.
 
-![generate 20Hz sine wave](20Hz_sine_wave_generation.JPG)
+![generate 20Hz sine wave](graphs/20Hz_sine_wave_generation.JPG)
 
-![plot of 20Hz sine wave](plot_20Hz_sine_wave.JPG)
+![plot of 20Hz sine wave](graphs/plot_20Hz_sine_wave.JPG)
 
 
