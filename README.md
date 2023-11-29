@@ -6,6 +6,6 @@ This is an Arduino-based Oscillscope written in the Atmel Studio 7.0 environment
 
 ![volatge plot of the RC circuit](graphs/plot2.png)
 
-![statistics and save data](graphs/statistics data and save data.png)
+![statistics and save data](graphs/statistics_data_and_save_data.png)
 
-![switch ADC channel](graphs/switch ADC channel.png)
+![switch ADC channel](graphs/switch_ADC_channel.png)
